@@ -1,0 +1,8 @@
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+.vs/
+Assembly-CSharp.csproj
+TD2DGame.sln
